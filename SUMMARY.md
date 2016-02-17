@@ -6,5 +6,5 @@
 * [Folder Structure](folder-structure.md)
 * [Routing](routing.md)
 * [Constants](constants.md)
-* [debugging](debugging.md)
+* [Debugging](debugging.md)
 
