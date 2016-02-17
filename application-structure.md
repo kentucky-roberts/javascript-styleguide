@@ -11,3 +11,10 @@ Have a near term view of implementation and a long term vision. In other words, 
 
 
 Place components that define the overall layout of the application in a folder named layout. These may include a shell view and controller may act as the container for the app, navigation, menus, content areas, and other regions.
+
+
+
+### Folders-by-Feature Structure
+
+Create folders named for the feature they represent. When a folder grows to contain more than 7 files, start to consider creating a folder for them. Your threshold may be different, so adjust as needed.
+
