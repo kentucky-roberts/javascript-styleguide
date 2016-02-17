@@ -19,7 +19,7 @@ Have a near term view of implementation and a long term vision. In other words, 
 ### Layout
 
 
-Place components that define the overall layout of the application in a folder named layout. These may include a shell view and controller may act as the container for the app, navigation, menus, content areas, and other regions.
+* Place components that define the overall layout of the application in a folder named layout. These may include a shell view and controller may act as the container for the app, navigation, menus, content areas, and other regions.
 
 
 
