@@ -66,7 +66,7 @@ app/
         session-detail.controller.js```
 
 
-**Avoid:**
+
 ```
 app/
     app.module.js
