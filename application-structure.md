@@ -30,11 +30,23 @@ Create folders named for the feature they represent. When a folder grows to cont
 
 *Why?*: The LIFT guidelines are all covered.
 
+When I find my structure is not feeling comfortable, I go back and revisit these LIFT guidelines
+
+1. Locating our code is easy
+2. Identify code at a glance
+3. Flat structure as long as we can
+4. Try to stay DRY (Don't Repeat Yourself) or T-DRY
+
+
+
+
 *Why?*: Helps reduce the app from becoming cluttered through organizing the content and keeping them aligned with the LIFT guidelines.
 
 *Why?*: When there are a lot of files (10+) locating them is easier with a consistent folder structures and more difficult in flat structures.
 
-Recommended
+
+
+**Recommended**
 ```
 app/
     app.module.js
@@ -103,3 +115,13 @@ app/
         speakers.html
         speaker-detail.html
         topnav.html```
+
+
+
+
+
+## Locate
+
+Make locating your code intuitive, simple and fast.
+
+*Why?*: I find this to be super important for a project. If the team cannot find the files they need to work on quickly, they will not be able to work as efficiently as possible, and the structure needs to change. You may not know the file name or where its related files are, so putting them in the most intuitive locations and near each other saves a ton of time. A descriptive folder structure can help with this.
