@@ -7,4 +7,4 @@
 * [Routing](routing.md)
 * [Constants](constants.md)
 * [Debugging](debugging.md)
-
+* [Task Automation](task-automation.md)
