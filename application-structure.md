@@ -26,7 +26,7 @@ Create folders named for the feature they represent. When a folder grows to cont
 
 *Why?*: When there are a lot of files (10+) locating them is easier with a consistent folder structures and more difficult in flat structures.
 
-**recommended:**
+**Recommended:**
 ```app/
     app.module.js
     app.config.js
