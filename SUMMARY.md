@@ -1,8 +1,6 @@
 # Table of Contents
 
 * [Single Responsibility](single-responsibility.md)
-
-
 * [Modularity](modularity.md)
 * [Naming](naming.md)
 * [Folder Structure](folder-structure.md)
