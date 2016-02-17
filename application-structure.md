@@ -7,6 +7,14 @@
 Have a near term view of implementation and a long term vision. In other words, start small but keep in mind on where the app is heading down the road. All of the app's code goes in a root folder named app. All content is 1 feature per file. Each controller, service, module, view is in its own file. All 3rd party vendor scripts are stored in another root folder and not in the app folder. I didn't write them and I don't want them cluttering my app (bower_components, scripts, lib).
 
 
+### Application Structure LIFT Principal
+
+
+Structure your app such that you can Locate your code quickly, Identify the code at a glance, keep the Flattest structure you can, and Try to stay DRY. The structure should follow these 4 basic guidelines.
+
+*Why LIFT?*: Provides a consistent structure that scales well, is modular, and makes it easier to increase developer efficiency by finding code quickly. Another way to check your app structure is to ask yourself: How quickly can you open and work in all of the related files for a feature?
+
+
 ### Layout
 
 
@@ -26,12 +34,8 @@ Create folders named for the feature they represent. When a folder grows to cont
 
 *Why?*: When there are a lot of files (10+) locating them is easier with a consistent folder structures and more difficult in flat structures.
 
-
+Recommended
 ```
-/**
- * recommended
- */
- 
 app/
     app.module.js
     app.config.js
@@ -66,7 +70,7 @@ app/
         session-detail.controller.js```
 
 
-
+**Avoid:**
 ```
 app/
     app.module.js
