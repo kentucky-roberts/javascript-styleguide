@@ -1,3 +1,5 @@
-# My Awesome Book
+# Javascript Styleguide
 
-This file serves as your book's preface, a great place to describe your book's content and ideas.
+The purpose of this style guide is to provide guidance on building Javascript applications by showing the conventions we use and, more importantly, why we choose them.
+
+
