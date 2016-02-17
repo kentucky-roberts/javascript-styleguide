@@ -26,7 +26,39 @@ Create folders named for the feature they represent. When a folder grows to cont
 
 *Why?*: When there are a lot of files (10+) locating them is easier with a consistent folder structures and more difficult in flat structures.
 
-
+**recommended:**
+```app/
+    app.module.js
+    app.config.js
+    components/
+        calendar.directive.js
+        calendar.directive.html
+        user-profile.directive.js
+        user-profile.directive.html
+    layout/
+        shell.html
+        shell.controller.js
+        topnav.html
+        topnav.controller.js
+    people/
+        attendees.html
+        attendees.controller.js
+        people.routes.js
+        speakers.html
+        speakers.controller.js
+        speaker-detail.html
+        speaker-detail.controller.js
+    services/
+        data.service.js
+        localstorage.service.js
+        logger.service.js
+        spinner.service.js
+    sessions/
+        sessions.html
+        sessions.controller.js
+        sessions.routes.js
+        session-detail.html
+        session-detail.controller.js```
 
 
 
