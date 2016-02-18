@@ -73,13 +73,7 @@ take a look at this video:
 [source code](https://jsfiddle.net/4o4z6fqn/9/)
 
 
- "styles": {
-        "website": "styles/website.css",
-        "ebook": "styles/ebook.css",
-        "pdf": "styles/pdf.css",
-        "mobi": "styles/mobi.css",
-        "epub": "styles/epub.css"
-    }
+
 
 
 [logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
