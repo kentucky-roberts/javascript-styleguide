@@ -42,6 +42,8 @@ Markdown | Less | Pretty
 *Still* | `renders` | **nicely**
 1 | 2 | 3
 
+<br>
+<hr>
 
 <dl>
   <dt>Definition list</dt>
@@ -51,7 +53,24 @@ Markdown | Less | Pretty
   <dd>Does *not* work **very** well. Use HTML <em>tags</em>.</dd>
 </dl>
 
+<br>
+<hr>
 
+
+- [*] checked
+- [x] also checked
+- [ ] not checked
+-     normal list item
+-     
+
+
+
+
+# term
+Definition for this term
+
+# Another term
+With it's definition, this can contain bold text and all other kinds of inline markup ...
 
 
 
