@@ -1,11 +1,6 @@
-# Javascript Styleguide
-
-The purpose of this style guide is to provide guidance on building Javascript applications by showing the conventions we use and, more importantly, why we choose them.
-
-
-
-
 # Table of Contents
+
+Text prior to footnote reference.[^2]
 
 * [Single Responsibility](_README/single-responsibility.md)
 * [Modularity](_README/modularity.md)
@@ -19,6 +14,17 @@ The purpose of this style guide is to provide guidance on building Javascript ap
 * [Git](_README/git.md)
 * [Servers](_README/servers.md)
 
+<h1 class="title--red">Title is Red!</h1>
 
+{% include "_README/folder-structure.md" %}
 
-.
+* [Part I](part1/README.md)
+    * [Writing is nice](part1/writing.md)
+    * [GitBook is nice](part1/gitbook.md)
+* [Part II](part2/README.md)
+    * [We love feedback](part2/feedback_please.md)
+    * [Better tools for authors](part2/better_tools.md)
+    * 
+    * 
+    
+[^2]: Comment to include in footnote.
