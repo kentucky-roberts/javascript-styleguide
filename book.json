@@ -1,5 +1,5 @@
 {
     "plugins": ["youtube"],
-    "plugins": ["copy-code-button"]
+    "plugins": ["copy-code-button"],
+    "plugins": [ "jsfiddle"]
 }
-
