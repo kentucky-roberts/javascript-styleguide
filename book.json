@@ -1,8 +1,6 @@
 
 {
-    "plugins": ["youtube"],
-    "plugins": ["copy-code-button"], 
-    "plugins": [ "jsfiddle"],
+    "plugins": ["youtube", "copy-code-button","jsfiddle" ],
     "pluginsConfig": {
           "jsfiddle":{
             "type":"script"
