@@ -9,6 +9,11 @@
         "pdf": "styles/pdf.css",
         "mobi": "styles/mobi.css",
         "epub": "styles/epub.css"
+    },
+    
+        "plugins": ["styles-less"],
+    "styles": {
+        "pdf": "./styles/pdf.less"
     }
     
 }
