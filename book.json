@@ -1,3 +1,4 @@
 {
-    "plugins": ["youtube"]
+    "plugins": ["youtube"],
+    "plugins": ["copy-code-button"]
 }
