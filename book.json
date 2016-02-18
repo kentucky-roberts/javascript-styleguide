@@ -1,4 +1,15 @@
+
 {
     "plugins": ["youtube"],
-    "plugins": ["copy-code-button"]
+    "plugins": ["copy-code-button"], 
+    "plugins": [ "jsfiddle"],
+    "pluginsConfig": {
+          "jsfiddle":{
+            "type":"script"
+            "tabs":["result","js","css", "html"],
+            "height": "500",
+            "width": "500",
+            "fontColor": "00FF00"
+          }
+    }
 }
