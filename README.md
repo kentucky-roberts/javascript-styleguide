@@ -7,7 +7,7 @@ The purpose of this style guide is to provide guidance on building Javascript ap
 
 # Table of Contents
 
-* [Single Responsibility](single-responsibility.md)
+* [Single Responsibility](_README/single-responsibility.md)
 * [Modularity](modularity.md)
 * [Naming](naming.md)
 * [Folder Structure](folder-structure.md)
