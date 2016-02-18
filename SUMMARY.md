@@ -13,3 +13,5 @@
 * [Servers](_README/servers.md)
 
 <h1 class="title--red">Title is Red!</h1>
+
+{% include "_README/folder-structure.md" %}
