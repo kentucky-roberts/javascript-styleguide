@@ -18,6 +18,9 @@
     "plugins": ["styles-sass"],
     "styles": {
         "pdf": "./styles/website.sass"
+    },
+    "variables": {
+        "myVariable": "Hello World"
     }
     
 }
