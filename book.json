@@ -17,7 +17,7 @@
     },
     "plugins": ["styles-sass"],
     "styles": {
-        "pdf": "./styles/website.scss"
+        "pdf": "./styles/website.sass"
     }
     
 }
