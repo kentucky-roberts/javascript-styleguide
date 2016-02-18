@@ -19,10 +19,6 @@ The purpose of this style guide is to provide guidance on building Javascript ap
 * [Git](_README/git.md)
 * [Servers](_README/servers.md)
 
+![alt text][logo]
 
-
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
-
-
-
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon49.png "Logo Title Text 1")
+[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
