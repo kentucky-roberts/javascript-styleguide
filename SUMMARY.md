@@ -1,5 +1,7 @@
 # Table of Contents
 
+Text prior to footnote reference.[^2]
+
 * [Single Responsibility](_README/single-responsibility.md)
 * [Modularity](_README/modularity.md)
 * [Naming](_README/naming.md)
@@ -22,3 +24,7 @@
 * [Part II](part2/README.md)
     * [We love feedback](part2/feedback_please.md)
     * [Better tools for authors](part2/better_tools.md)
+    * 
+    * 
+    
+[^2]: Comment to include in footnote.
