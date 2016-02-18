@@ -11,7 +11,7 @@
         "epub": "styles/epub.css"
     },
     
-        "plugins": ["styles-less"],
+    "plugins": ["styles-less"],
     "styles": {
         "pdf": "./styles/pdf.less"
     }
