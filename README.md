@@ -21,4 +21,12 @@ The purpose of this style guide is to provide guidance on building Javascript ap
 
 ![alt text][logo]
 
+
+```javascript
+var s = "JavaScript syntax highlighting";
+alert(s);
+```
+
+
+
 [logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
