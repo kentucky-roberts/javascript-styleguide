@@ -16,8 +16,10 @@
 
 {% include "_README/folder-structure.md" %}
 
+$$
 {
     "structure": {
         "readme": "otherREADME.md"
     }
 }
+$$
