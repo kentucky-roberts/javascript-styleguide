@@ -11,6 +11,7 @@ The purpose of this style guide is to provide guidance on building Javascript ap
 * [Modularity](_README/modularity.md)
 * [Naming](_README/naming.md)
 * [Folder Structure](_README/folder-structure.md)
+* [Application Structure LIFT Principle](_README/application-structure-lift-principal.md)
 * [Routing](_README/routing.md)
 * [Constants](_README/constants.md)
 * [Debugging](_README/debugging.md)
