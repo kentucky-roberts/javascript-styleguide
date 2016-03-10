@@ -25,8 +25,24 @@ When you look at a file you should instantly know what it contains and represent
 
 Why?: You spend less time hunting and pecking for code, and become more efficient. If this means you want longer file names, then so be it. Be descriptive with file names and keeping the contents of the file to exactly 1 component. Avoid files with multiple controllers, multiple services, or a mixture. There are deviations of the 1 per file rule when I have a set of very small features that are all related to each other, they are still easily identifiable.
 
+
 ### Flat
 
 Keep a flat folder structure as long as possible. When you get to 7+ files, begin considering separation.
 
 Why?: Nobody wants to search 7 levels of folders to find a file. Think about menus on web sites … anything deeper than 2 should take serious consideration. In a folder structure there is no hard and fast number rule, but when a folder has 7-10 files, that may be time to create subfolders. Base it on your comfort level. Use a flatter structure until there is an obvious value (to help the rest of LIFT) in creating a new folder.
+
+
+
+### T-DRY (Try to Stick to DRY)
+
+Be DRY, but don't go nuts and sacrifice readability.
+
+Why?: Being DRY is important, but not crucial if it sacrifices the others in LIFT, which is why I call it T-DRY. I don’t want to type session-view.html for a view because, well, it’s obviously a view. If it is not obvious or by convention, then I name it.
+
+
+
+
+
+
+
