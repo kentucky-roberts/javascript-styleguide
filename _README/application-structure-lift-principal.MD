@@ -6,12 +6,12 @@ Why LIFT?: Provides a consistent structure that scales well, is modular, and mak
 
 When I find my structure is not feeling comfortable, I go back and revisit these LIFT guidelines
 
-<ul>
-<li>Locating our code is easy</li>
-<li>Identify code at a glance</li>
-<li>Flat structure as long as we can</li>
-<li>Try to stay DRY (Don’t Repeat Yourself) or T-DRY</li>
-</ul>
+<ol>
+    <li>Locating our code is easy</li>
+    <li>Identify code at a glance</li>
+    <li>Flat structure as long as we can</li>
+    <li>Try to stay DRY (Don’t Repeat Yourself) or T-DRY</li>
+</ol>
 
 ### Locate
 
