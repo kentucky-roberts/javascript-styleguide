@@ -115,7 +115,48 @@ app/
         session-detail.controller.js
 }```
 
+Note: Do not structure your app using folders-by-type. This requires moving to multiple folders when working on a feature and gets unwieldy quickly as the app grows to 5, 10 or 25+ views and controllers (and other features), which makes it more difficult than folder-by-feature to locate files.
 
+
+````{
+/*
+* avoid
+* Alternative folders-by-type.
+* I recommend "folders-by-feature", instead.
+*/
+
+app/
+    app.module.js
+    app.config.js
+    app.routes.js
+    directives.js
+    controllers/
+        attendees.js
+        session-detail.js
+        sessions.js
+        shell.js
+        speakers.js
+        speaker-detail.js
+        topnav.js
+    directives/
+        calendar.directive.js
+        calendar.directive.html
+        user-profile.directive.js
+        user-profile.directive.html
+    services/
+        dataservice.js
+        localstorage.js
+        logger.js
+        spinner.js
+    views/
+        attendees.html
+        session-detail.html
+        sessions.html
+        shell.html
+        speakers.html
+        speaker-detail.html
+        topnav.html
+}````
 
 
 
