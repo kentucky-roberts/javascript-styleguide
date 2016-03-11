@@ -76,7 +76,7 @@ Why?: Helps reduce the app from becoming cluttered through organizing the conten
 
 Why?: When there are a lot of files (10+) locating them is easier with a consistent folder structures and more difficult in flat structures.
 
-```{
+```
 /**
  * recommended
  */
@@ -113,7 +113,7 @@ app/
         sessions.routes.js
         session-detail.html
         session-detail.controller.js
-}```
+```
 
 Note: Do not structure your app using folders-by-type. This requires moving to multiple folders when working on a feature and gets unwieldy quickly as the app grows to 5, 10 or 25+ views and controllers (and other features), which makes it more difficult than folder-by-feature to locate files.
 
